@@ -1,6 +1,6 @@
 <img align="center" src="./webdevlpr-logo.png"> <br><br>
 
-<br>
+
 
 <h3>Hi 👋, I'm Marijana. I'm passionate about <b>full-stack development</b>, much like how someone would feel about woodworking. These activities are highly rewarding in terms of the satisfaction of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.
 
@@ -15,7 +15,7 @@ As the famous quote goes,
 
 <br> </h3>
 
-<br>
+
 
 
 - 🔭 I’m currently working on [Tic Tac Toe game](github.com/marijanasevo/Tic-Tac-Toe-game)
