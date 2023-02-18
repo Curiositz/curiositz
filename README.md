@@ -8,7 +8,7 @@
 
 <h3>I'm drawn to optimization and web applications that are based on simple (and creative) solutions. I think that they should deliver an idea exceptionally well and allow everyone access to content and functionality without bloated code and complicated systems. To me, this can be considered an art form nowadays.</h3>
 
-<br>
+
 
 As the famous quote goes,
 > The best design is the simplest one that works. 
