@@ -5,7 +5,7 @@
 <h3>Hi 👋, I'm Marijana. I'm passionate about <b>full-stack development</b>, much like how someone would feel about woodworking. These activities are highly rewarding in terms of the satisfaction of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.</h3>
 
 
-<h3>I'm drawn to optimization and web applications that are based on simple (and creative) solutions. I think that they should deliver an idea exceptionally well and allow everyone access to content and functionality without bloated code and complicated systems. To me, this can be considered an art form nowadays.</h3>
+<div>I'm drawn to optimization and web applications that are based on simple (and creative) solutions. I think that they should deliver an idea exceptionally well and allow everyone access to content and functionality without bloated code and complicated systems. To me, this can be considered an art form nowadays.</div>
 
 
 
@@ -36,7 +36,7 @@ As the famous quote goes,
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijanasevo&" alt="marijanasevo" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijanasevo&" alt="marijanasevo" /></p>
 
 <br>
 
