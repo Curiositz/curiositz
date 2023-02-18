@@ -1,4 +1,4 @@
-<img align="center" src="./webdevlpr-logo.png"> <br><br>
+<p align="center"><img align="center" src="./webdevlpr-logo.png"></p> <br><br>
 
 
 
