@@ -26,7 +26,7 @@
 
 <br>
 <div align="center" dir="auto">  
-<div dir="auto">JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS</div> 
+<div dir="auto">JavaScript | HTML 5 | CSS 3 | SASS | Node JS</div> 
 <br>
 <div dir="auto">MongoDB | Git | Figma | WordPress</div>
 </div>
