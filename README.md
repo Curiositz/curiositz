@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Tic Tac Toe game](github.com/marijanasevo/Tic-Tac-Toe-game)
+- 🔭 I’m currently working on [Tic Tac Toe game](https://github.com/marijanasevo/Tic-Tac-Toe-game)
 
 - 📝 I write articles on [webdevlpr.com](webdevlpr.com)
 
