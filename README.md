@@ -2,7 +2,7 @@
 
 
 
-<h3>Welcome 👋, I'm Marijana.</h3> 
+<h3>Welcome to my GitHub Profile! 👋 I'm Marijana.</h3> 
 
 <p>I'm passionate about <b>full-stack development</b>, much like how someone would feel about woodworking I think. It's highly rewarding in terms of the satisfaction of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.</p>
 
