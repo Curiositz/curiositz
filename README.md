@@ -4,9 +4,9 @@
 
 <h3>Welcome to my GitHub Profile! 👋 I'm Marijana.</h3> 
 
-<p>I'm passionate about <b>full-stack development</b>, much like how someone would feel about woodworking I think. It's highly rewarding in terms of the satisfaction of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.</p>
+<p>I'm passionate about <b>full-stack development</b>, much like how someone might feel about woodworking I think. It's highly rewarding in terms of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.</p>
 
-<p>I'm drawn to optimization and web applications that are based on simple (and creative) solutions. Those solutions should allow to deliver an idea exceptionally well and allow everyone access to content and functionality without bloated code and complicated systems. To me, this can be considered an art form nowadays. As the famous quote goes, <br><br>
+<p>I'm drawn to optimization and web applications that are based on simple (and creative) solutions. Those solutions should deliver an idea exceptionally well and allow everyone access to content and functionality without bloated code and complicated systems. To me, this can be considered an art form nowadays. As the famous quote goes, <br><br>
   <blockquote>The best design is the simplest one that works.</blockquote>
 </p>
 
