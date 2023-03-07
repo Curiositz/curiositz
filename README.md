@@ -10,8 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on a [browser extension](https://github.com/marijanasevo/Modify-Web-for-Kindle)
-
+- 🔭 I’m currently working on a journal web app
 - 📝 I write articles on [webdevlpr.com](https://webdevlpr.com/)
 
 - 📫 How to reach me **marijana@webdevlpr.com**
