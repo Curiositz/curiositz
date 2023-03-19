@@ -22,9 +22,9 @@
 
 <br>
 <div align="center" dir="auto">  
-<div dir="auto">JavaScript | HTML 5 | CSS 3 | SASS | Node JS</div> 
+<div dir="auto">JavaScript | React | HTML 5 | CSS 3 | SASS | Figma </div> 
 <br>
-<div dir="auto">MongoDB | Git | Figma | WordPress</div>
+<div dir="auto">Node JS | Express | MongoDB | WordPress</div>
 </div>
 
 <br><br>
