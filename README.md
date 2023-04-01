@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [silken skin](https://github.com/marijanasevo/silkenskin) skincare ecom website
+- 🔭 I’m currently working on [silken skin](https://github.com/marijanasevo/silkenskin) ecom website
 - 📝 I write articles on [webdevlpr.com](https://webdevlpr.com/)
 
 - 📫 How to reach me **marijana@webdevlpr.com**
