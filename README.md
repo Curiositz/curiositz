@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Zdrava Doza, platform talking about health
+- 🔭 I’m currently working on Doza Zdravlja, platform talking about health
 - 📝 I write articles on [webdevlpr.com](https://webdevlpr.com/)
 
 - 📫 How to reach me **marijana@webdevlpr.com**
