@@ -1,6 +1,6 @@
 <h3>Hi! 👋 I'm Marijana.</h3> 
 
-<p>I'm passionate about <b>full-stack development</b>, much like how someone might feel about woodworking I think. It's highly rewarding in terms of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and serves a purpose.</p>
+<p>I'm passionate about <b>full-stack development</b>, much like how someone might feel about woodworking I think. It's highly rewarding in terms of bringing an idea to life and being able to say "I made this". Moreover when the end product is useful and solves someones problem.</p>
 
 <p>I'm drawn to optimized web applications that are based on simple (and creative) solutions. Those solutions deliver an idea exceptionally well while allowing everyone access to content and functionality without bloated code and complicated systems. To me, this is an art form. As the famous quote goes, <br><br>
   <blockquote>The best design is the simplest one that works.</blockquote>
@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [silken skin](https://github.com/marijanasevo/silkenskin) ecom website
+- 🔭 I’m currently working on Zdrava Doza, platform talking about health
 - 📝 I write articles on [webdevlpr.com](https://webdevlpr.com/)
 
 - 📫 How to reach me **marijana@webdevlpr.com**
