@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Doza Zdravlja, platform talking about health
+- 🔭 I’m currently working on Doza Zdravlja, platform focused on common health concerns
 - 📝 I write articles on [webdevlpr.com](https://webdevlpr.com/)
 
 - 📫 How to reach me **marijana@webdevlpr.com**
@@ -30,10 +30,3 @@
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijanasevo&" alt="marijanasevo" /></p>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marijanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marijanas" height="30" width="40" /></a>
-</p>
