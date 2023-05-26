@@ -1,6 +1,6 @@
 <h3>Hi! 👋 I'm Marijana.</h3> 
 
-<p>I have a strong interest in full-stack development, with a particular focus on frontend technologies. I am truly inspired by the process of taking an idea and bringing it to life through coding. It is highly satisfying to create something that has real-world use and provides solutions to problems. </p><br/>
+<p>I have a strong interest in full-stack development, with a particular focus on frontend technologies. I am truly inspired by the process of taking an idea and bringing it to life through coding. It is highly satisfying to create something that has real-world use and solves problems. </p><br/>
 
 
 - 🔭 I’m currently working on Zdrava Doza, a platform focused on common health concerns
