@@ -15,9 +15,9 @@
 
 <br>
 <div align="center" dir="auto">  
-<div dir="auto">JavaScript | React | HTML 5 | CSS 3 | SASS | Figma </div> 
+<div dir="auto">JavaScript | React | Next.js | Liquid | HTML 5 | CSS 3 | SASS | Figma </div> 
 <br>
-<div dir="auto">Node JS | Express | MongoDB | WordPress</div>
+<div dir="auto">Node JS | Express | MongoDB | Shopify | WordPress</div>
 </div>
 
 <br><br>
