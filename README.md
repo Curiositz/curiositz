@@ -1,6 +1,6 @@
 <h3>Hi! 👋 I'm Marijana.</h3> 
 
-<p>I have a strong interest in full-stack development, with a particular focus on frontend technologies. I am inspired by the process of taking an idea and bringing it to life through coding, especially if it has real-world use and solves problems. </p><br/>
+<p>I have a strong interest in full-stack development, with a particular focus on frontend technologies.</p><br/>
 
 
 - 🔭 I’m currently working on [Zdrava Doza](https://zdravadoza.com/), a platform focused on common health concerns
@@ -22,4 +22,4 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijanasevo&" alt="marijanasevo" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marijanasevo&" alt="marijanasevo" /></p> -->
